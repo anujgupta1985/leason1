@@ -1,10 +1,8 @@
 Following are Receipies :
 
 1. Sahi Paneer
-2. Kadai Paneer
-3. Dum Aalu,
-4. Biryani,
-5. Daal Makkhni
+2. Biryani,
+3. Daal Makkhni
 
 // This is new feature to be craete
 1. feature 1
